@@ -26,8 +26,10 @@ Allows creating Forge mods for 1.8-1.12 and 1.13+ in the same `@Mod` class.
         compileOnly("maven.modrinth:universalfml:1.0.0")
     }
     ```
-3. Use `@Mod`  
+3. Use `@Mod`
     See the [test mod](src/test/java/dev/cootshk/universalfml/test/TestMod.java) as an example.
+
+The artifact is also available as `dev.cootshk:universalfml:1.0.0` on `https://cootshk.dev/maven`.
 
 <details><summary>Maven (pom.xml) usage</summary>
 <pre>
