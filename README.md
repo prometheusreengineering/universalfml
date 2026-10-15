@@ -2,6 +2,8 @@
 
 Allows creating Forge mods for 1.8-1.12 and 1.13+ in the same `@Mod` class.
 
+[![Discord](https://img.shields.io/discord/1197794960985043034?style=for-the-badge&label=Discord&color=rgb(88%2C%20101%2C%20242)%20)](https://discord.gg/BFDWmPfmXg)
+
 ## Usage
 
 1. Add the Modrinth Maven repository
@@ -55,3 +57,11 @@ The artifact is also available as `dev.cootshk:universalfml:1.0.0` on `https://c
 > If you are building for both 1.8-1.12 and 1.13+, you will have to specify the mod ID twice.
 > 
 > Additionally, Dist.DEDICATED_SERVER will crash the game on 1.8–1.12 (Dist.CLIENT is okay).
+
+## Disclaimer
+
+This project is intended for educational purposes only. We are not responsible for any damage caused by this project.
+
+## License
+
+See [LICENSE](LICENSE) for more information.
