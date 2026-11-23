@@ -64,4 +64,4 @@ This project is intended for educational purposes only. We are not responsible f
 
 ## License
 
-See [LICENSE](LICENSE) for more information.
+See [LICENSE](LICENSE.md) for more information.
